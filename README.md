@@ -116,6 +116,5 @@ Many other factors come into play when we deploy a full-fledged Django applicati
 * Load balancing
 * Recovery Plans
 
-To fulfill some of these factors, one can also use the `AWS Beanstalk` service to deploy Django apps more efficiently.
 
 
